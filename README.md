@@ -1,5 +1,4 @@
-# Supplementary Material for "Faster Coherent Quantum Algorithms for Phase, Energy, and Amplitude
-Estimation"
+# Supplementary Material for "Faster Coherent Quantum Algorithms for Phase, Energy, and Amplitude Estimation"
 
 By Patrick Rall.
 
